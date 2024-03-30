@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Guilherme H. Caiasso</h1>
 <h3 align="center">Biomedical Informatics student at UFCSPA</h3>
 
-- 🌱 I’m currently learning: **Operational Systems, Web Development and much more**
+- 🌱 I’m currently learning: **Operational Systems, Software Engineering, Web Development and much more**
 
 - 💬 Ask me about: **anything interesting**
 
