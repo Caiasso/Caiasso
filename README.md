@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/profile/guilherme_caias1">
 <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-282A36?style=for-the-badge&logo=HackerRank&logoColor=white)" />
 </a>
-<a href="https://www.linkedin.com/in/guilherme-caiasso-16ab29172/">
+<a href="https://www.linkedin.com/in/guilherme-caiasso">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-282A36?style=for-the-badge&logo=Linkedin&logoColor=white)" />
 </a>
 <a href="https://www.instagram.com/guilherme_caiasso/">
