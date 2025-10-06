@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Guilherme H. Caiasso ^^</h1>
-<h3 align="center">Biomedical Informatics student at UFCSPA</h3>
-
-- 🌱 I’m currently learning: **Operational Systems, Software Engineering, Web Development and much more**
-
-- 💬 Ask me about: **anything interesting**
+<h3 align="center">Biomedical Informatics student at UFCSPA and Full Stack Developer</h3>
 
 - 📫 How to reach me: **guilhermecaiasso@gmail.com**
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiasso&show_icons=true&locale=en" alt="caiasso" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiasso&show_icons=true&locale=en" alt="caiasso" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiasso&show_icons=true&locale=pt-BR" alt="caiasso" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiasso&show_icons=true&locale=pt-BR" alt="caiasso" /></p>
 
 <h3 align="left">I'm also here:</h3>
 <a href="https://www.hackerrank.com/profile/guilherme_caias1">
